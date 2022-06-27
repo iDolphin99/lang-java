@@ -1,14 +1,16 @@
 # Java 
-Java study note repository
-
+Java study note repository  
 including lecture source code, assignment, project code
 
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 
+<br>
 
 ## 📖 Lecture
 Java Programming (2019-01, 2021-01)  
 Java Programming Practice (2019-01)
+
+<br>
 
 ## 🔎 Explanation
 Final_Project  
