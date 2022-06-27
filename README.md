@@ -1,6 +1,10 @@
 # Java 
 Java study note repository
-- lecture source code, assignment, project code
+
+including lecture source code, assignment, project code
+
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+
 
 ## 📖 Lecture
 Java Programming (2019-01, 2021-01)  
