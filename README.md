@@ -1,20 +1,24 @@
 # Java 
-Java study note repository  
-including lecture source code, assignment, project code
+For learning Java, including lecture source code, assignment, projects and more.  
 
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Intelli J-2C2255?style=flat-square&logo=intellijidea&logoColor=#000000"/></a>
 
 <br>
 
-## 📖 Lecture
+## 📖 The List of Courses Taken
 Java Programming (2019-01, 2021-01)  
-Java Programming Practice (2019-01)
+Java Programming Practical (2019-01)
 
 <br>
 
 ## 🔎 Explanation
-Final_Project  
-- final project with specification on Java Programming Practice Lec
+#### Java Programming
+two assignment codes (2019, 2021)
+- each consists of three hw
+
+#### Java Programming Practical
+assignment code and the final project 
 - free subject, individual project
 - community membership fee list management
 - specification
@@ -24,13 +28,3 @@ Final_Project
   - use at least 1 exception handler message 
   - use ArrayList (or other collections on chapter 11)
   - implemented in multiple Java files (comment required) 
-
-Report01 
-- 3 assignment code on Java Programming Lec(2019)
-
-Report02 
-- 3 assignment code on Java Programming Lec(2021)
-
-Report_Practice
-- 2 assignment code on Java Programming Practice Lec
-
